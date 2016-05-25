@@ -1,0 +1,64 @@
+body{
+}
+
+/* Wrapper */
+#wrapper{
+}
+.paddding-zero{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.margin-zero{
+	margin: 0px;
+}
+.user-container {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .user-container {
+    width: 76%;
+  }
+}
+
+/* Navigation */
+.navigation{
+}
+
+/* Landing Page */
+.landingpage{
+}
+
+/* Services */
+.services{
+}
+
+/* portfolio */
+.user-col-sm-2{
+	position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+@media (max-width: 768px){
+	.user-col-sm-2{
+		float: left;
+		width: 16.666666666%
+	}
+}
+@media (min-width: 768px){
+	.user-col-sm-2{
+		float: left;
+		width: 16.666666666%
+	}
+}
+
+/* About */
+.about{
+}
+
+/* Contact */
+.contact{
+}
